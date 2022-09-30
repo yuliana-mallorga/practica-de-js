@@ -42,9 +42,12 @@ document.write(numberString + numberString2); //conactenar es unir
 let num = 10;
 let number = 20;
 console.log(num + number)
-document.write(number+num);
+document.write(number + num);
 //tipo de dato buleano
 
 let verdadero = true;
 let falso = false;
 console.log(!verdadero)//negacion con el operador.
+let comision = "23i"
+//document.write(<br>comision: + conf)
+//alert("mensaje de alerta")
