@@ -9,9 +9,9 @@ comentaro de varias lineas
 document.write("escribir cosas en  el navegador")
 //definicion de variables o asignaciòn de variables
 let numero = 5; //el signo de = es el operador de asignacion de valor
-console.log("numero")
+console.log(numero)
 
-let numero2 = "8";
+let numero2 = 8;
 
 console.log(numero2)
 
@@ -25,7 +25,7 @@ console.log (palabra)
 //palabra = "chau"
 
 var numero3 = 10;
-
+console.log(numero3)
 let variable = "valor" 
 //tipo de dato string
 //defino un string vacio
@@ -37,7 +37,7 @@ let numberString2 = "18"
 
 console.log(numberString)
 console.log(numberString)
-document.write(numberString + numberString2); //conactenar es unir
+document.write(numberString + numberString2); //concatenar es unir
 //tipo de numero
 let num = 10;
 let number = 20;
